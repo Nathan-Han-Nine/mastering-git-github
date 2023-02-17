@@ -1,0 +1,10 @@
+# .gitignore
+# 깃으로 관리하자 않을 팡리 지정
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+#Dependency directories
+node_modules/
